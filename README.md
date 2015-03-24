@@ -20,8 +20,9 @@ Gameplay continues until 1 player has all the cards
 
 
 **TODO:**
-*
-Seed a game by randomizing and splitting the deck up
+<br>
+
+*Seed a game by randomizing and splitting the deck up*
 <br>
 Print statements to trace the pathing of the game
 <br>
