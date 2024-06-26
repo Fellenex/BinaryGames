@@ -1,9 +1,9 @@
-###Game description acquired from:
+### Game description acquired from:
    https://github.com/toruurakawa/Encyclopedia-of-Binary-Card-Games/blob/master/Games/War.md
 
 <br>
 
-###Original Problem-Domain Description:
+### Original Problem-Domain Description:
 **1.** Players play the top card from their deck at the same time laying them on the table from right to left.
 <br>
 **2.** If less than 3 players are playing they should lay down five cards to start.
@@ -20,7 +20,7 @@
 
 <br><br>
 
-###Updated Problem-Domain Descriptions:
+### Updated Problem-Domain Descriptions:
 **5.** If the players play the same card, they initiate a "battle" by creating a "battle hand" of up to 3 cards; the sum of those cards decides the winner. In the event that the sum of a battle is the same for both players, then another "battle" is initiated. The winner of the final battle takes all of the cards used in all of the battles up to and including the final one.
 <br>
 **5.2** In the event that a player runs out of cards in their regular deck while adding cards to their battle hand, they swap their "won cards" deck and their regular deck and continues to add cards to their battle hand.
@@ -28,7 +28,7 @@
 **5.4** In the event that a player runs out of cards in their regular deck and their "won cards" deck, that player's battle hand sum is already decided. The other player is allowed to continue adding cards to their battle hand until they have 3. The winner of the battle is determined normally, with the possibility of one player having more cards than the other.
 
 
-####TODO:
+### TODO:
 *Seed a game by randomizing and splitting the deck up*
 <br>
 *Print statements to trace the pathing of the game*
